@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"sticker",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"shit",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fight",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"storyName": "the ultimate fight scene experience",
+	"weekName": "Stick Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu-stick.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bob0000" x="0" y="0" width="172" height="515" frameX="0" frameY="-2" frameWidth="172" frameHeight="517"/>
+	<SubTexture name="bob0001" x="172" y="0" width="172" height="513" frameX="0" frameY="-4" frameWidth="172" frameHeight="517"/>
+	<SubTexture name="bob0002" x="344" y="0" width="172" height="513" frameX="0" frameY="-4" frameWidth="172" frameHeight="517"/>
+	<SubTexture name="bob0003" x="516" y="0" width="172" height="513" frameX="0" frameY="-4" frameWidth="172" frameHeight="517"/>
+	<SubTexture name="bob0004" x="688" y="0" width="172" height="511" frameX="0" frameY="-6" frameWidth="172" frameHeight="517"/>
+	<SubTexture name="bob0005" x="860" y="0" width="172" height="511" frameX="0" frameY="-6" frameWidth="172" frameHeight="517"/>
+	<SubTexture name="bob0006" x="1032" y="0" width="172" height="517"/>
+</TextureAtlas>
