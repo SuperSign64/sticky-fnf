@@ -1,4 +1,19 @@
 {
+	"storyName": "the ultimate fight scene experience",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sticke",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"sticker",
@@ -28,21 +43,6 @@
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"storyName": "the ultimate fight scene experience",
-	"weekName": "Stick Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Stick Week"
 }
