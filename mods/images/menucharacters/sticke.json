@@ -1,9 +1,9 @@
 {
 	"idle_anim": "bob",
-	"image": "menu-stick",
+	"image": "Menu_sticke",
 	"position": [
-		42,
-		81
+		40,
+		80
 	],
 	"scale": 0.65,
 	"confirm_anim": "M Dad Idle"
