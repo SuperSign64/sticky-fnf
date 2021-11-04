@@ -5,10 +5,10 @@
 				0,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "Sticky Idle"
 		},
 		{
@@ -16,10 +16,10 @@
 				-18,
 				-1
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "Sticky Left"
 		},
 		{
@@ -27,40 +27,40 @@
 				9,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "Sticky Right"
 		},
 		{
-			"offsets": [
-				-16,
-				0
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
 			"loop": false,
-			"name": "Sticky Left"
+			"offsets": [
+				24,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sticky Down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				2,
-				1
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
 			"loop": false,
-			"name": "Sticky Up"
+			"offsets": [
+				-31,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sticky Up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Nova_files",
+	"image": "characters/nova_anims",
 	"position": [
-		50,
-		0
+		-10,
+		40
 	],
 	"healthicon": "nova",
 	"flip_x": false,
