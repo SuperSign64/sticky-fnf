@@ -1,14 +1,15 @@
 {
-	"storyName": "the ultimate fight scene experience",
+	"storyName": "the blockiest experience",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"sticke",
 		"bf",
@@ -16,33 +17,14 @@
 	],
 	"songs": [
 		[
-			"sticker",
-			"dad",
+			"og sticker",
+			"sticke",
 			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"shit",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"fight",
-			"dad",
-			[
-				146,
-				113,
-				253
+				255,
+				255,
+				255
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "Stick Week"
 }

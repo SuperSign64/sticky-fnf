@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Sticker",
+			"nova",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Shit",
+			"nova",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Supernova",
+			"nova",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"nova",
+		"bf",
+		"gf"
+	],
+	"storyName": "ok, imagine a nova tar but with a body",
+	"weekName": "Nova's Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

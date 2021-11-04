@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_nova.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menuBopping instance 10000" x="0" y="0" width="481" height="760" frameX="0" frameY="-14" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10001" x="0" y="0" width="481" height="760" frameX="0" frameY="-14" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10002" x="481" y="0" width="479" height="767" frameX="-1" frameY="-8" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10003" x="481" y="0" width="479" height="767" frameX="-1" frameY="-8" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10004" x="960" y="0" width="479" height="772" frameX="-1" frameY="-3" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10005" x="960" y="0" width="479" height="772" frameX="-1" frameY="-3" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10006" x="1439" y="0" width="478" height="774" frameX="-2" frameY="-1" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10007" x="1439" y="0" width="478" height="774" frameX="-2" frameY="-1" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10008" x="0" y="774" width="478" height="775" frameX="-2" frameY="0" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10009" x="0" y="774" width="478" height="775" frameX="-2" frameY="0" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10010" x="0" y="774" width="478" height="775" frameX="-2" frameY="0" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10011" x="0" y="774" width="478" height="775" frameX="-2" frameY="0" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10012" x="0" y="774" width="478" height="775" frameX="-2" frameY="0" frameWidth="481" frameHeight="775"/>
+	<SubTexture name="menuBopping instance 10013" x="0" y="774" width="478" height="775" frameX="-2" frameY="0" frameWidth="481" frameHeight="775"/>
+</TextureAtlas>
