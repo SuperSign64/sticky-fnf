@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sticky Idle"
+		},
+		{
+			"offsets": [
+				-18,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sticky Left"
+		},
+		{
+			"offsets": [
+				9,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sticky Right"
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sticky Left"
+		},
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sticky Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nova_files",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "nova",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-140,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

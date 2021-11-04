@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nova_files.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sticky Idle0000" x="0" y="0" width="482" height="760" frameX="0" frameY="-13" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0001" x="0" y="0" width="482" height="760" frameX="0" frameY="-13" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0002" x="482" y="0" width="480" height="766" frameX="-1" frameY="-7" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0003" x="482" y="0" width="480" height="766" frameX="-1" frameY="-7" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0004" x="962" y="0" width="478" height="771" frameX="-2" frameY="-3" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0005" x="962" y="0" width="478" height="771" frameX="-2" frameY="-3" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0006" x="1440" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0007" x="1440" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0008" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0009" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0010" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0011" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0012" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Idle0013" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Left0000" x="2396" y="0" width="463" height="770" frameX="-3" frameY="-6" frameWidth="467" frameHeight="776"/>
+	<SubTexture name="Sticky Left0001" x="2396" y="0" width="463" height="770" frameX="-3" frameY="-6" frameWidth="467" frameHeight="776"/>
+	<SubTexture name="Sticky Left0002" x="2859" y="0" width="467" height="775" frameX="0" frameY="-1" frameWidth="467" frameHeight="776"/>
+	<SubTexture name="Sticky Left0003" x="2859" y="0" width="467" height="775" frameX="0" frameY="-1" frameWidth="467" frameHeight="776"/>
+	<SubTexture name="Sticky Left0004" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0005" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0006" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0007" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0008" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0009" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0010" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0011" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0012" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0013" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0014" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0015" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0016" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0017" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0018" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0019" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0020" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0021" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0022" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0023" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0024" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0025" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0026" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0027" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0028" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0029" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0030" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0031" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0032" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0033" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0034" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0035" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0036" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0037" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0038" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0039" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0040" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0041" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0042" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0043" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0044" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0045" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0046" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0047" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0048" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0049" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0050" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0051" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0052" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0053" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0054" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0055" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0056" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0057" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0058" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0059" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0060" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Left0061" x="3326" y="0" width="467" height="776"/>
+	<SubTexture name="Sticky Right0000" x="0" y="776" width="487" height="774"/>
+	<SubTexture name="Sticky Right0001" x="0" y="776" width="487" height="774"/>
+	<SubTexture name="Sticky Right0002" x="487" y="776" width="482" height="772" frameX="-4" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0003" x="487" y="776" width="482" height="772" frameX="-4" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0004" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0005" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0006" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0007" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0008" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0009" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0010" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0011" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0012" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0013" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Right0014" x="969" y="776" width="480" height="772" frameX="-6" frameY="-2" frameWidth="487" frameHeight="774"/>
+	<SubTexture name="Sticky Up0000" x="0" y="0" width="482" height="760" frameX="0" frameY="-13" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0001" x="0" y="0" width="482" height="760" frameX="0" frameY="-13" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0002" x="482" y="0" width="480" height="766" frameX="-1" frameY="-7" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0003" x="482" y="0" width="480" height="766" frameX="-1" frameY="-7" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0004" x="962" y="0" width="478" height="771" frameX="-2" frameY="-3" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0005" x="962" y="0" width="478" height="771" frameX="-2" frameY="-3" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0006" x="1440" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0007" x="1440" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0008" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0009" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0010" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0011" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0012" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+	<SubTexture name="Sticky Up0013" x="1918" y="0" width="478" height="774" frameX="-2" frameY="0" frameWidth="482" frameHeight="774"/>
+</TextureAtlas>
