@@ -1,4 +1,20 @@
 {
+	"storyName": "ok, imagine a nova tar but with a body",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"nova",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Sticker",
@@ -28,21 +44,5 @@
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekCharacters": [
-		"nova",
-		"bf",
-		"gf"
-	],
-	"storyName": "ok, imagine a nova tar but with a body",
-	"weekName": "Nova's Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Nova's Week"
 }
