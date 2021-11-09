@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Infected Nova Idle"
+		},
+		{
+			"offsets": [
+				-8,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Infected Nova Left"
+		},
+		{
+			"offsets": [
+				29,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Infected Nova Right"
+		},
+		{
+			"offsets": [
+				102,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Infected Nova Down"
+		},
+		{
+			"offsets": [
+				-48,
+				172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Infected Nova Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nova_infected",
+	"position": [
+		-90,
+		100
+	],
+	"healthicon": "nova",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		127,
+		127
+	],
+	"camera_position": [
+		-160,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
