@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_doob.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle instance 10000" x="0" y="0" width="323" height="473" frameX="0" frameY="-7" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10001" x="323" y="0" width="323" height="473" frameX="0" frameY="-7" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10002" x="646" y="0" width="321" height="476" frameX="0" frameY="-4" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10003" x="967" y="0" width="321" height="476" frameX="0" frameY="-4" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10004" x="1288" y="0" width="321" height="479" frameX="0" frameY="-1" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10005" x="1609" y="0" width="321" height="479" frameX="0" frameY="-1" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10006" x="0" y="479" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10007" x="321" y="479" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10008" x="642" y="479" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10009" x="963" y="479" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10010" x="1284" y="479" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10011" x="1605" y="479" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10012" x="0" y="959" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+	<SubTexture name="idle instance 10013" x="321" y="959" width="321" height="480" frameX="0" frameY="0" frameWidth="323" frameHeight="480"/>
+</TextureAtlas>

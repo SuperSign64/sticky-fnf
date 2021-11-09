@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"doob",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"clothes",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mall'in",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "store",
+	"weekCharacters": [
+		"doob",
+		"bf",
+		"gf"
+	],
+	"storyName": "THE MALL EXPRIENCE!?!?!?!?!?!",
+	"weekName": "Doob's Clothing Shop",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

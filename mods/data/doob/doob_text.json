@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh you want to have a rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "doob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean im kinda busy right now but ok!"
+		}
+	]
+}
