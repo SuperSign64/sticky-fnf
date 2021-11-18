@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Shit",
+			"jimmy",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"jimmy",
+		"bf",
+		"gf"
+	],
+	"storyName": "fregely? never heard of him its jimmy dot json now",
+	"weekName": "Jimmy dot Jason",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
