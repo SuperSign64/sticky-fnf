@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh boy what a beautiful day to be on\\nGeneric Stage #1 for the millionth fucking time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "right gf?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "of course honey it always is when im with you ^w^"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "awee youre so nice"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyways wanna have s"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HELLO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WHAT THE FUCK IS THAT FUCKING FREGLY FROM DIARY OF A WIMPY KID BY JEFF KINNEY?????????????????????????????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You bet your fucking ass it is boi. Actually no youre incorrect fuck you hoe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but youre literally just a sentient jpeg of fregly how are you not fregly"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU IDIOT IM JIMMYYYYYYYYYYYYYYY\\nYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY\\nYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "damn ok i guess?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "honestly this dude is fucking stupid"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "can you beat his ass like you beat mine in bed for me thanks"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GF?!?!?!?!?!??!!?!? DOT XML?@?@?@??!?!?!?\\nDONTSAYTHAT this is kid friendly fnf youtube\\nkids content for the kids!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "bitch you literally said the fuck word like\\non 50 different occasions???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ok and you just said 2 in one sentence"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut up before i file a divorce"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can whe rap bootle wit me already i havent\\ngotten a dialogue box in 20 centuries!!!!1!!1!!!!\\nnow hurry up before i engineer gaming you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that literally makes no sense at all but ok i guess. time to fuck your shit up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how can you fuck my shit up if its in my\\ndigestive system :troll:"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you"
+		}
+	]
+}
