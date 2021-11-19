@@ -1,7 +1,23 @@
 {
+	"storyName": "fregely? never heard of him its jimmy dot json now",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"jimmy",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
-			"Shit",
+			"Jimmy",
 			"jimmy",
 			[
 				255,
@@ -10,21 +26,5 @@
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekCharacters": [
-		"jimmy",
-		"bf",
-		"gf"
-	],
-	"storyName": "fregely? never heard of him its jimmy dot json now",
-	"weekName": "Jimmy dot Jason",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Jimmy dot Jason"
 }
