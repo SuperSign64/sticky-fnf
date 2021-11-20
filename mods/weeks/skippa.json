@@ -1,0 +1,34 @@
+{
+	"storyName": "ULTIMATESKIPERRRRR",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"skippa",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"8 28 63",
+			"skippa",
+			[
+				252,
+				150,
+				215
+			]
+		],
+		[
+			"shit",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Skippa"
+}
